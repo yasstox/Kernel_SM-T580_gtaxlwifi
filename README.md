@@ -1,3 +1,13 @@
+This repository is an archival mirror used as a hardware/reference
+source for the SM-T580 mainline Linux/postmarketOS port.
+
+Original repository:
+Yusuf6411/Kernel_SM-T580_gtaxlwifi
+
+The source contains Linux/Samsung kernel code under the licenses
+specified by the original source files and COPYING notices.
+No ownership of upstream code is claimed by this mirror.
+
 # Samsung Galaxy Tab A 10.1 (2016) Kernel Source (gtaxlwifi - SM-T580)
 
 ## Overview
